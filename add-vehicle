@@ -12,3 +12,5 @@ The system allows a dealership employee to add a new vehicle.
 
 ## Expected behavior
 After submitting valid vehicle data, the vehicle is saved and becomes available in the vehicle list.
+
+This specification belongs to Jira story CDM-3.
