@@ -1,0 +1,14 @@
+# Add Vehicle
+
+The system allows a dealership employee to add a new vehicle.
+
+## Required fields
+- Make
+- Model
+- Year
+- VIN
+- Purchase price
+- Status
+
+## Expected behavior
+After submitting valid vehicle data, the vehicle is saved and becomes available in the vehicle list.
